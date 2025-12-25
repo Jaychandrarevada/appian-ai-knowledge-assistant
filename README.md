@@ -103,3 +103,12 @@ The prototype simulates how this logic would integrate with:
 
 ## 📂 Repository Structure
 
+appian-ai-knowledge-assistant/
+│
+├── app.py # Main demo application
+├── backend/ # Core logic (context, retrieval, summarization)
+├── data/ # Sample case data and policy documents
+├── ui/screenshots/ # Demo screenshots for presentation
+├── README.md # Project documentation
+└── requirements.txt
+
